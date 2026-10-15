@@ -4,6 +4,8 @@ An interactive New Orleans corridor study connecting Lafayette Square and Camell
 
 **Live report:** https://adamdavies.dev/bike-boulevard/
 
+**Research and ride data (private):** [bike-boulevard-research](https://github.com/adamdavies1915/bike-boulevard-research). Contains the analysis scripts, evidence databases, route comparisons and personal ride exports; access requires repository permission.
+
 The map compares eight route options with directional stop and all-way-stop markers, traffic lights, and pavement measurements. Pavement colors are on by default. The report includes the personal ride-time model, methodology, route tradeoffs, a PDF, and full street sequences.
 
 ## Files
